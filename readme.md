@@ -13,9 +13,9 @@ This file addresses compilation of the `main.cpp` file containing code for the c
 To run:
 1. Choose variables
 2. Go to terminal:
-> Navigate to the directory of `main.cpp`
+  > Navigate to the directory of `main.cpp`
 
-> Paste `g++ -o main main.cpp -g` and hit enter
+  > Paste `g++ -o main main.cpp -g` and hit enter
 
 When shown the list of options, input 1-3 to select the cache type. If 2 or 3 selected, input 1 (FIFO) or 2 (LRU) to select replacement type.
 
