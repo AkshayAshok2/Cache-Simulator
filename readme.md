@@ -1,4 +1,4 @@
-|Cache Simulator|Akshay Ashok|
+| Cache Simulator | Akshay Ashok |
 
 Hello! This file addresses compilation of the "main.cpp" file containing code for the cache analysis project. There are five parameters that affect the output: cacheSize, blockSize, mode (replacement method, true = FIFO, false = LRU), associativity, and the ".trace" file chosen as input. cacheSize and blockSize should be positive powers of 2.
 
